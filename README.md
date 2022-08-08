@@ -1,3 +1,4 @@
-# HelloWorld
+#Sample Page
 
-This is sample **page to create the file using GIT Bash**
+This is the sample page to demostrate the GIT Bash
+
